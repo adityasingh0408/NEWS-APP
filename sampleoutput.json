@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "High turnout as France votes in election that could usher in far right - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/europe/france-vote-election-that-could-put-far-right-government-2024-06-30/",
+        "urlToImage": null,
+        "publishedAt": "2024-06-30T15:25:20Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Rebecca Rubin",
+        "title": "Box Office: ‘A Quiet Place: Day One’ Scores Franchise-Best $53 Million Debut, Kevin Costner’s ‘Horizon’ Misfires With $11 Million - Variety",
+        "description": "”A Quiet Place Day One” scored $53 million in its debut.",
+        "url": "https://variety.com/2024/film/box-office/box-office-a-quiet-place-day-scores-kevin-costner-horizon-misfires-1236057461/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2024/06/Quiet-Place-2.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2024-06-30T15:05:00Z",
+        "content": "“A Quiet Place: Day One” is making noise at the box office, collecting a roaring $53 million in its domestic opening weekend. The nearly silent thriller added $45.5 million internationally for a glob… [+4584 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Caroline Thayer",
+        "title": "Olivia Culpo insisted that her wedding dress not 'exude sex in any way, shape, or form' - Fox News",
+        "description": "The former Miss Universe says why she opted for a dress that did not \"exude sex\" and the importance of marrying NFL star Christian McCaffrey in a church.",
+        "url": "https://www.foxnews.com/entertainment/olivia-culpo-insisted-wedding-dress-not-exude-sex-any-way-shape-form",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/christian_mcaffrey_olivia_culpo.jpg",
+        "publishedAt": "2024-06-30T14:50:00Z",
+        "content": "Olivia Culpo has married her prince charming in NFL star Christian McCaffrey.\r\nThe duo, who got engaged last year after a few years of dating, married in a church in Watch Hill, Rhode Island, on Satu… [+2394 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Lena H. Sun, Sarah Kaplan",
+        "title": "Dengue fever is surging worldwide. The epidemic has reached the U.S. - The Washington Post",
+        "description": "Climate change helped fuel an explosion of dengue cases in the Americas, including Puerto Rico, as mosquitoes multiply in warmer, wetter weather.",
+        "url": "https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NYCGCBYE4YSDRHV6JYIJ7VUUB4.JPG&w=1440",
+        "publishedAt": "2024-06-30T14:33:39Z",
+        "content": "SAN JUAN, Puerto Rico The curly-haired girl came to theemergency roomwith fever, aches and signs of dehydration,common indications of many childhood illnesses.But the 9-year-old pale and listless ben… [+15886 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Motorsport.com"
+        },
+        "author": "Alex Kalinauckas",
+        "title": "F1 Austrian GP: Russell inherits victory as Verstappen and Norris collide - Motorsport.com",
+        "description": "Russell scores Mercedes' first win of 2024 as Verstappen and Norris collide while battling for the lead",
+        "url": "https://www.motorsport.com/f1/news/f1-austrian-gp-russell-inherits-victory-as-verstappen-and-norris-collide/10629844/",
+        "urlToImage": "https://cdn-5.motorsport.com/images/amp/Y99DWAqY/s6/george-russell-mercedes-amg-f1-3.jpg",
+        "publishedAt": "2024-06-30T14:31:14Z",
+        "content": "George Russell won an Austrian Grand Prix that was transformed dramatically when long-time leader Max Verstappen collided with long-time pursuer Lando Norris.\r\nThe Red Bull and McLaren pair made cont… [+3747 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "POLITICO",
+        "title": "Ex-DNC vice chair: Biden must be pushed to drop out - POLITICO",
+        "description": null,
+        "url": "https://www.politico.com/news/2024/06/30/ex-dnc-chair-biden-2024-elections-00165940",
+        "urlToImage": null,
+        "publishedAt": "2024-06-30T14:24:10Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Georg Szalai",
+        "title": "Viggo Mortensen on Respecting Audiences, How Scripts Are Key “Unless I’m Broke,” New ‘LOTR’ Films - Hollywood Reporter",
+        "description": "At the Karlovy Vary film festival, the star also discusses feminism and diversity, shares why Hollywood tends to \"over-explain things\" and the emotional screening of 'The Dead Don't Hurt' in Ukraine.",
+        "url": "http://www.hollywoodreporter.com/movies/movie-news/viggo-mortensen-lord-of-the-rings-script-feminism-1235935628/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/06/Viggo-1.jpg?w=1024",
+        "publishedAt": "2024-06-30T14:18:03Z",
+        "content": "Viggo Mortensen seems tireless. On Friday night, he opened the 58th edition of the Karlovy Vary International Film Festival (KVIFF) in the Czech Republic with his feminist western The Dead Don’t Hurt… [+9299 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Should you still take multivitamins after this new study? - Fox News",
+        "description": "Fox News medical contributor Dr. Nicole Saphier joins ‘Fox & Friends Weekend’ to discuss the new study finding multivitamins do not decrease people’s risk of...",
+        "url": "https://www.youtube.com/watch?v=NT7u072XPwo",
+        "urlToImage": "https://i.ytimg.com/vi/NT7u072XPwo/maxresdefault.jpg",
+        "publishedAt": "2024-06-30T14:00:15Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rolling Stone"
+        },
+        "author": "Daniel Kreps",
+        "title": "Watch Zach Bryan Bring the 'Hawk Tuah' Girl Onstage at Nashville Concert - Rolling Stone",
+        "description": "Zach Bryan's Nashville stadium show Saturday featured guests Kacey Musgraves and the viral \"Hawk Tuah\" girl.",
+        "url": "http://www.rollingstone.com/music/music-country/zach-bryan-hawk-tuah-girl-kacey-musgraves-nashville-1235050385/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/06/bryanhawk.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2024-06-30T13:03:04Z",
+        "content": "From Springsteen to “Spit on that thing”: Zach Bryan’s Quittin Time Tour has featured plenty of diverse onstage guest appearances, from rock gods to country stars to NFL quarterbacks to, now, interne… [+1284 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": null,
+        "title": "How to Watch Euro 2024: England vs. Slovakia -- Livestream Soccer From Anywhere - CNET",
+        "description": "Can the Falcons claim a shock win over the sub-par Three Lions?",
+        "url": "https://www.cnet.com/tech/services-and-software/how-to-watch-euro-2024-england-vs-slovakia-livestream-soccer-from-anywhere/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/50469eb95bc6066b848d61923f2401416fc93872/hub/2024/06/30/8f3c9d29-d661-4996-af07-98e37e88a429/gettyimages-2159244794.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-06-30T13:00:00Z",
+        "content": "It's crunch time for underwhelming England today as they take on underdogs Slovakia in this UEFA Euro 2024 round of 16 knockout tie in Gelsenkirchen. \r\nDespite finishing top of Group C, the Three Lio… [+5072 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Dalia Faheid, Sara Tonks",
+        "title": "Hurricane Beryl intensifies into ‘very dangerous’ Category 3 storm as it approaches the Caribbean - CNN",
+        "description": "Beryl, the first hurricane of the 2024 Atlantic season, intensified into a “very dangerous” Category 3 storm on Sunday morning, according to the National Hurricane Center.",
+        "url": "https://www.cnn.com/2024/06/30/weather/hurricane-beryl-barbados-caribbean-sunday/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/image-20240630011042273.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-30T12:43:00Z",
+        "content": "Beryl, the first hurricane of the 2024 Atlantic season, intensified into a very dangerous Category 3 storm on Sunday morning as it churned toward Barbados and the Windward Islands, promising destruct… [+7189 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Israeli tanks advance into areas in north and south Gaza, fighting rages - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/middle-east/israeli-tanks-advance-into-areas-north-south-gaza-fighting-rages-2024-06-30/",
+        "urlToImage": null,
+        "publishedAt": "2024-06-30T12:19:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Will Daniel",
+        "title": "Lumber prices are plunging. Blame the record drop in U.S. housing affordability and a post-pandemic double bubble 'hangover' - Fortune",
+        "description": "“It’s an ugly scenario” for the lumber market, Sitka Forest Products' Boeckholt told Fortune. “We’re kind of having a hangover from a great three years.”",
+        "url": "https://fortune.com/2024/06/30/lumber-prices-housing-post-pandemic-double-bubble-hangover/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-2158487981-e1719603429319.jpg?resize=1200,600",
+        "publishedAt": "2024-06-30T12:05:00Z",
+        "content": "The twin-peaked lumber bubble of 2021 and 2022 that once drove home building costs through the roof and exacerbated inflation is now nothing more than a memory.Spot lumber prices have plummeted 75% f… [+6093 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Melissa Repko",
+        "title": "Pride month: More companies stay quiet, but donations keep flowing - CNBC",
+        "description": "Companies have tread lightly this Pride month, as they brace for a divisive presidential election and follow public backlash against Target and Bud Light.",
+        "url": "https://www.cnbc.com/2024/06/30/pride-month-more-companies-stay-quiet-but-donations-keep-flowing.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107434979-1719591806515-gettyimages-2157747773-dsc_8557_8hjnav9u.jpeg?v=1719591878&w=1920&h=1080",
+        "publishedAt": "2024-06-30T12:00:01Z",
+        "content": "Parade participants are seen marching during the 2024 Kentuckiana Pride Parade on June 15, 2024 in Louisville, Kentucky. \r\nPride month is winding down and this year, the corporate world took a more c… [+11155 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Andrew Jones",
+        "title": "China opens Chang'e 6 return capsule containing samples from moon's far side - Livescience.com",
+        "description": "The moon material is being prepared for storage, analysis and research.",
+        "url": "https://www.space.com/chang-e-6-moon-far-side-return-capsule-opened",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/CEzEdUKdvmJ7nrYj2mKXKU-1200-80.jpg",
+        "publishedAt": "2024-06-30T12:00:00Z",
+        "content": "China's Chang'e 6 mission return capsule has been transferred to Beijing and opened to access its precious cargo.\r\nThe return capsule made its fiery plunge through the atmosphere on June 25 before la… [+2118 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Joey Garrison",
+        "title": "The making of Doug Burgum: From North Dakota to Trump's possible VP - USA TODAY",
+        "description": "Doug Burgum's admirers describe a visionary and brilliant communicator. Other North Dakotans say he's moved hard to the right to appease Donald Trump.",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2024/06/29/doug-burgum-north-dakota-vice-president/74049142007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/06/26/USAT/74218845007-gty-2152518300-1.jpg?crop=5999,3375,x0,y313&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2024-06-30T11:17:55Z",
+        "content": "ARTHUR, N.D. It was the early 1990s, and Doug Burgum had a message to deliver to partners of Great Plains Software gathered at the \"Stampede to Fargo\" conference.\r\nBurgum, then CEO of the startup acc… [+20792 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Boy, 13, shot dead by New York police had replica gun, authorities say - BBC.com",
+        "description": "Nyah Mway died after police mistook his replica gun for a real firearm and shot him in the chest.",
+        "url": "https://www.bbc.com/news/articles/c6p2j48g304o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d1e8/live/7dd04150-36b7-11ef-be3c-8375e0de064b.jpg",
+        "publishedAt": "2024-06-30T10:50:15Z",
+        "content": "Police in New York state have shot dead a 13-year-old boy after he ran from police while holding a replica handgun, authorities said. \r\nOfficers stopped Nyah Mway and another 13-year-old on Friday ni… [+2035 chars]"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Samuel Axon",
+        "title": "The new Riven remake is even better than Myst - Ars Technica",
+        "description": "The original developers revised puzzles and realized the immersive world in 3D.",
+        "url": "https://arstechnica.com/gaming/2024/06/the-new-riven-remake-is-even-better-than-myst/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/Riven-viewpoint-760x380.png",
+        "publishedAt": "2024-06-30T10:45:37Z",
+        "content": "Enlarge/ The same gorgeous vistas return in the Riven remake.\r\n14\r\nA remake of Riven: The Sequel to Myst launched this week, made by the original game's developers. It strikes a fascinating balance b… [+2563 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Erin Blakemore",
+        "title": "Study suggests connection between anxiety and Parkinson's disease - The Washington Post",
+        "description": "Researchers compared people 50 and older who were diagnosed with a first episode of anxiety between 2008 and 2018 with a control group without anxiety.",
+        "url": "https://www.washingtonpost.com/health/2024/06/30/anxiety-diagnosis-parkinsons-disease-risk/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5TY7QBGYKQI6XDEHVVXSPEMMPA_size-normalized.jpg&w=1440",
+        "publishedAt": "2024-06-30T10:35:55Z",
+        "content": "People over 50 with anxiety may be up to twice as likely to develop Parkinsons disease as their peers without anxiety, a new analysis suggests.\r\nThe study, published in the British Journal of General… [+1977 chars]"
+      }
+    ]
+  }
